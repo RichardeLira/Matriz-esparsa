@@ -2,7 +2,7 @@
 
 
 ## Breve descrição 
-<p align="center">A ideia principal do projeto é a implementação da estrutura de dados matriz esparsa utilizando-se de listas encadeadasc circulares</p>
+<p align="center">A ideia principal do projeto é a implementação da estrutura de dados matriz esparsa utilizando-se de listas encadeadas circulares</p>
 
 ## Requisitos da aplicação 
 Para executar a aplicação, basta ter um editor de texto ou uma IDE que execute o código C++. Dentro da pasta principal execute o arquivo "main.cpp" junto com "Matrix.h" e "Matrix.cpp" 
